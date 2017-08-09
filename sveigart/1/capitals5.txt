@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Course:
+
+               Bilet 5
+
+1. Vybor stolicy stata Pennsylvania.
+ A. Madison
+ B. Harrisburg
+ C. Lincoln
+ D. Charleston
+
+2. Vybor stolicy stata North Dakota.
+ A. Little Rock
+ B. Harrisburg
+ C. Jefferson City
+ D. Bismarck
+
+3. Vybor stolicy stata New Jersey.
+ A. Richmond
+ B. Boise
+ C. Jackson
+ D. Trenton
+
+4. Vybor stolicy stata California.
+ A. Topeka
+ B. Bismarck
+ C. Boise
+ D. Sacramento
+
+5. Vybor stolicy stata New York.
+ A. Saint Paul
+ B. Santa Fe
+ C. Jefferson City
+ D. Albany
+
+6. Vybor stolicy stata New Hampshire.
+ A. Boston
+ B. Boise
+ C. Madison
+ D. Concord
+
+7. Vybor stolicy stata South Carolina.
+ A. Providence
+ B. Pierre
+ C. Montgomery
+ D. Columbia
+
+8. Vybor stolicy stata Wisconsin.
+ A. Montpelier
+ B. Harrisburg
+ C. Honolulu
+ D. Madison
+
+9. Vybor stolicy stata Washington.
+ A. Olympia
+ B. Phoenix
+ C. Jackson
+ D. Atlanta
+
+10. Vybor stolicy stata Georgia.
+ A. Madison
+ B. Concord
+ C. Atlanta
+ D. Phoenix
+
+11. Vybor stolicy stata Maryland.
+ A. Annapolis
+ B. Tallahassee
+ C. Salem
+ D. Salt Lake City
+
+12. Vybor stolicy stata Montana.
+ A. Boston
+ B. Salem
+ C. Salt Lake City
+ D. Helena
+
+13. Vybor stolicy stata Tennessee.
+ A. Phoenix
+ B. Jefferson City
+ C. Saint Paul
+ D. Nashville
+
+14. Vybor stolicy stata Alabama.
+ A. Trenton
+ B. Charleston
+ C. Saint Paul
+ D. Montgomery
+
+15. Vybor stolicy stata Oklahoma.
+ A. Concord
+ B. Hartford
+ C. Oklahoma City
+ D. Dover
+
+16. Vybor stolicy stata Michigan.
+ A. Baton Rouge
+ B. Cheyenne
+ C. Trenton
+ D. Lansing
+
+17. Vybor stolicy stata Louisiana.
+ A. Austin
+ B. Richmond
+ C. Topeka
+ D. Baton Rouge
+
+18. Vybor stolicy stata Ohio.
+ A. Indianapolis
+ B. Columbus
+ C. Des Moines
+ D. Hartford
+
+19. Vybor stolicy stata Wyoming.
+ A. Baton Rouge
+ B. Bismarck
+ C. Cheyenne
+ D. Austin
+
+20. Vybor stolicy stata Illinois.
+ A. Austin
+ B. Salt Lake City
+ C. Springfield
+ D. Harrisburg
+
+21. Vybor stolicy stata West Virginia.
+ A. Charleston
+ B. Annapolis
+ C. Augusta
+ D. Bismarck
+
+22. Vybor stolicy stata Delaware.
+ A. Topeka
+ B. Dover
+ C. Santa Fe
+ D. Salt Lake City
+
+23. Vybor stolicy stata Missouri.
+ A. Atlanta
+ B. Jefferson City
+ C. Salem
+ D. Hartford
+
+24. Vybor stolicy stata Colorado.
+ A. Jackson
+ B. Denver
+ C. Juneau
+ D. Topeka
+
+25. Vybor stolicy stata Florida.
+ A. Concord
+ B. Nashville
+ C. Tallahassee
+ D. Sacramento
+
+26. Vybor stolicy stata Massachusetts.
+ A. Boston
+ B. Saint Paul
+ C. Montpelier
+ D. Salt Lake City
+
+27. Vybor stolicy stata Rhode Island.
+ A. Jackson
+ B. Providence
+ C. Dover
+ D. Hartford
+
+28. Vybor stolicy stata Kentucky.
+ A. Des Moines
+ B. Harrisburg
+ C. Frankfort
+ D. Providence
+
+29. Vybor stolicy stata Indiana.
+ A. Indianapolis
+ B. Tallahassee
+ C. Pierre
+ D. Santa Fe
+
+30. Vybor stolicy stata New Mexico.
+ A. Santa Fe
+ B. Bismarck
+ C. Hartford
+ D. Madison
+
+31. Vybor stolicy stata Utah.
+ A. Oklahoma City
+ B. Salt Lake City
+ C. Atlanta
+ D. Little Rock
+
+32. Vybor stolicy stata Kansas.
+ A. Tallahassee
+ B. Topeka
+ C. Frankfort
+ D. Lansing
+
+33. Vybor stolicy stata Idaho.
+ A. Tallahassee
+ B. Albany
+ C. Boise
+ D. Providence
+
+34. Vybor stolicy stata Connecticut.
+ A. Columbia
+ B. Lincoln
+ C. Hartford
+ D. Des Moines
+
+35. Vybor stolicy stata Mississippi.
+ A. Columbus
+ B. Jackson
+ C. Little Rock
+ D. Pierre
+
+36. Vybor stolicy stata Iowa.
+ A. Salt Lake City
+ B. Carson City
+ C. Juneau
+ D. Des Moines
+
+37. Vybor stolicy stata Oregon.
+ A. Trenton
+ B. Salem
+ C. Helena
+ D. Topeka
+
+38. Vybor stolicy stata Arkansas.
+ A. Olympia
+ B. Boston
+ C. Little Rock
+ D. Charleston
+
+39. Vybor stolicy stata Vermont.
+ A. Lincoln
+ B. Albany
+ C. Montpelier
+ D. Madison
+
+40. Vybor stolicy stata Texas.
+ A. Columbus
+ B. Austin
+ C. Harrisburg
+ D. Santa Fe
+
+41. Vybor stolicy stata Hawaii.
+ A. Austin
+ B. Honolulu
+ C. Charleston
+ D. Raleigh
+
+42. Vybor stolicy stata Alaska.
+ A. Bismarck
+ B. Sacramento
+ C. Juneau
+ D. Santa Fe
+
+43. Vybor stolicy stata Virginia.
+ A. Providence
+ B. Cheyenne
+ C. Richmond
+ D. Boston
+
+44. Vybor stolicy stata Arizona.
+ A. Albany
+ B. Tallahassee
+ C. Lansing
+ D. Phoenix
+
+45. Vybor stolicy stata South Dakota.
+ A. Frankfort
+ B. Baton Rouge
+ C. Juneau
+ D. Pierre
+
+46. Vybor stolicy stata Nebraska.
+ A. Pierre
+ B. Columbia
+ C. Salem
+ D. Lincoln
+
+47. Vybor stolicy stata Minnesota.
+ A. Columbia
+ B. Trenton
+ C. Saint Paul
+ D. Raleigh
+
+48. Vybor stolicy stata North Carolina.
+ A. Raleigh
+ B. Boston
+ C. Indianapolis
+ D. Salt Lake City
+
+49. Vybor stolicy stata Maine.
+ A. Augusta
+ B. Topeka
+ C. Boise
+ D. Jefferson City
+
+50. Vybor stolicy stata Nevada.
+ A. Carson City
+ B. Lincoln
+ C. Saint Paul
+ D. Olympia
+

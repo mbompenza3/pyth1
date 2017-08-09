@@ -1,0 +1,170 @@
+# lst = [1, 2, 3, 4, 5, 6]
+# book = {
+#     'title': 'The Langoliers',
+#     'author': 'Stephen King',
+#     'year_published': 1990
+# }
+# string = "Hello, World!"
+#
+# for i in string:
+#     print(i)
+#
+# it = iter(lst)
+# while True:
+#     try:
+#         i = next(it)
+#         print(i)
+#     except StopIteration:
+#         break
+
+# from random import random
+#
+# class RndIter:
+#     def __iter__(self):
+#         return self
+#
+#     def __init__(self,k):
+#         self.k=k
+#         self.i=0
+#
+#     def __next__(self):
+#         if self.i<self.k:
+#             self.i+=1
+#             return random()
+#         else:
+#             raise StopIteration
+#
+# for x in RndIter(10):
+#     print(x)
+
+
+# class DblElIt:
+#     def __init__(self,lst):
+#         self.lst=lst
+#         self.i=0
+#
+#     def __next__(self):
+#         if self.i<len(self.lst):
+#             self.i+=2
+#             return self.lst[self.i-2],self.lst[self.i-1]
+#         else:
+#             raise StopIteration
+#
+# class MyL(list):
+#     def __iter__(self):
+#         return DblElIt(self)
+#
+# for p in MyL([1,2,3,4]):
+#     print(p)
+# from random import random
+# def rnd_gen(k):
+#     for i in range(k):
+#         yield random()
+#
+# gen=rnd_gen(3)
+# for i in gen:
+#     print(i)
+
+# class multifilter:
+#     def judge_half(pos, neg):
+#         return pos>=neg
+#         # допускает элемент, если его допускает хотя бы половина фукнций (pos >= neg)
+#
+#     def judge_any(pos, neg):
+#         return pos>=1
+#         # допускает элемент, если его допускает хотя бы одна функция (pos >= 1)
+#
+#     def judge_all(pos, neg):
+#         return neg==0
+#         # допускает элемент, если его допускают все функции (neg == 0)
+#
+#     def __init__(self, iterable, *funcs, judge=judge_any):
+#         self.iterable=iterable
+#         self.funcs=funcs
+#         self.judge=judge
+#         # iterable - исходная последовательность
+#         # funcs - допускающие функции
+#         # judge - решающая функция
+#
+#     def __iter__(self):
+#
+#         for i in self.iterable:
+#             rt=[f(i) for f in self.funcs]
+#             pos=rt.count(True)
+#             neg=rt.count(False)
+#             # print(self.judge(pos,neg))
+#             if self.judge(pos,neg):
+#                 yield i
+#         # возвращает итератор по результирующей последовательности
+#
+#
+# def mul2(x):
+#     return x % 2 == 0
+#
+# def mul3(x):
+#     return x % 3 == 0
+#
+# def mul5(x):
+#     return x % 5 == 0
+#
+#
+# a = [i for i in range(31)] # [0, 1, 2, ... , 30]
+#
+# print(list(multifilter(a, mul2, mul3, mul5,judge=multifilter.judge_all)))
+
+# x=input().split()
+# print(x)
+# n,k=map(int,x)
+# l,m=(int(i) for i in x )
+# qq=(int(i) for i in x )
+# print(n,k)
+# print(l,m)
+# print(qq)
+
+# x=input().split()
+# xs=(int(i) for i in x)
+# # def even(x):
+# #     return x%2==0
+xs=[1,2,3,4]
+even=lambda x: 1
+# print(even([1,2,3,4]))
+evs=list(filter(even,xs))
+evs1=even(xs)
+
+print(evs1)
+# for i in evs:
+#     print(i)
+#
+# import operator as op
+# x=[1,2,3]
+# f=op.delitem(x,2)
+# print(f)
+# print(x)
+# from functools import partial
+# z=int('1010',base=2)
+# print(z)
+# int_2=partial(int,base=2)
+# x=int_2('1010')
+# print(x)
+
+# def mod_checker(x,mod=0):
+#     return (lambda y: y % x == mod)
+#
+# mod_3=mod_checker(3)
+# print(mod_3(3))
+# print(mod_3(4))
+#
+# mod_3_1 = mod_checker(3, 1)
+# print(mod_3_1(4)) # True
+
+
+
+
+
+
+
+
+
+
+
+
