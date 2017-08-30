@@ -9,6 +9,9 @@ imf=img_as_float(image)
 
 matr=imf.reshape(474*713,3)
 
+
+
+
 from sklearn.cluster import KMeans
 import numpy as np
 # X = np.array([[1, 2], [1, 4], [1, 0],
@@ -71,3 +74,14 @@ mse=mse/mn
 max1=255
 
 psnr=20*np.log10(max1/mse)
+
+import pandas as pd
+df=pd.DataFrame(matr,columns=['R','G','B'])
+df['clust']=kmeans.labels_
+mn=df.groupby(['clust']).mean()
+md=df.groupby(['clust']).median()
+amn=np.array(mn)
+amd=np.array(md)
+adf1=amn[kmeans.labels_]
+adf2=amd[kmeans.labels_]
+
